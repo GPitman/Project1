@@ -1,0 +1,10 @@
+*{
+        font-family:georgia;
+        margin:0;
+        }
+
+header{
+        display:block;
+        width:100%;
+        background-color:#6a6abd;
+}
